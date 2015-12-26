@@ -12,6 +12,7 @@
 		7971749E1C2CCF6F00949D6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7971749C1C2CCF6F00949D6A /* Main.storyboard */; };
 		797174A01C2CCF6F00949D6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7971749F1C2CCF6F00949D6A /* Assets.xcassets */; };
 		797174A31C2CCF6F00949D6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 797174A11C2CCF6F00949D6A /* LaunchScreen.storyboard */; };
+		797174AB1C2D2C6200949D6A /* friendScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797174AA1C2D2C6200949D6A /* friendScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7971749F1C2CCF6F00949D6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		797174A21C2CCF6F00949D6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		797174A41C2CCF6F00949D6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		797174AA1C2D2C6200949D6A /* friendScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = friendScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				797174981C2CCF6F00949D6A /* AppDelegate.swift */,
 				7971749A1C2CCF6F00949D6A /* ViewController.swift */,
 				7971749C1C2CCF6F00949D6A /* Main.storyboard */,
+				797174AA1C2D2C6200949D6A /* friendScreen.swift */,
 				7971749F1C2CCF6F00949D6A /* Assets.xcassets */,
 				797174A11C2CCF6F00949D6A /* LaunchScreen.storyboard */,
 				797174A41C2CCF6F00949D6A /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7971749B1C2CCF6F00949D6A /* ViewController.swift in Sources */,
+				797174AB1C2D2C6200949D6A /* friendScreen.swift in Sources */,
 				797174991C2CCF6F00949D6A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
